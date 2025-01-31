@@ -5,12 +5,4 @@ hier kommt die sonne
 drei
 hier kommt die sonne
 
-15*20
-and here!
-
-15*44
-------
-
-the second change
-
-move to branch and add this line
+sie ist der hellste stern von allen
